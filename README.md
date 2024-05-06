@@ -6,8 +6,8 @@ or marking them as  complete.
 # Tools 
 This application has been built with the following :
 
--Python
--sqlLite
+- Python
+- sqlLite
 
 # Features 
 The following features are available :
