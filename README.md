@@ -26,3 +26,4 @@ The following features are available :
 # How to use the TODO
 
 # license
+The project is licensed under MIT License
