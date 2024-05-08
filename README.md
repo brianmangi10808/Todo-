@@ -19,3 +19,10 @@ The following features are available :
 # Screenshot 
 
 ![Image Description](image/todo.png)
+
+# Installation and how to run the TODO
+
+
+# How to use the TODO
+
+# license
