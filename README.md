@@ -19,6 +19,7 @@ The following features are available :
 # Screenshot 
 
 ![Image Description](image/todo.png)
+![Image Description](image/image.png)
 
 # Installation and how to run the TODO
 - clone the repo or fork the repo to your local machine
